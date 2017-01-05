@@ -110,12 +110,6 @@
   </url>
   
   <url>
-    <loc>https://vlu0ng.github.io/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vlu0ng.github.io/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
@@ -147,6 +141,12 @@
   
   <url>
     <loc>https://vlu0ng.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vlu0ng.github.io/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
