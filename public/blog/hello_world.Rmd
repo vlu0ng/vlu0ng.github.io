@@ -1,14 +1,14 @@
 ---
-date: 2017-01-05
-title: "Hello World"
+date: 2017-01-05T18:47:29-06:00
+title: hello_world
 type: "post"
 author: Vinh Luong
-draft: false
+draftL: false 
 ---
 
-Hello World
+Hello World 
 
-```{r cars}
-#R Code Chunk
-y <- 5 + 8 
+```{r}
+y <- 5 + 8
 ```
+
